@@ -32,7 +32,7 @@
     "rimraf": "3.0.2",
     "rxjs": "6.6.3",
     "typeorm": "0.2.29",
-    "typeorm-cursor-pagination": "^0.4.1"
+    "typeorm-cursor-pagination": "0.4.1"
   },
   "devDependencies": {
     "@nestjs/cli": "7.5.3",
