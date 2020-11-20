@@ -32,7 +32,7 @@
     "class-transformer": "0.3.1",
     "class-validator": "0.12.2",
     "dotenv-defaults": "2.0.1",
-    "nanoid": "3.1.17",
+    "nanoid": "3.1.18",
     "nest-router": "1.0.9",
     "passport": "0.4.1",
     "passport-jwt": "4.0.0",
